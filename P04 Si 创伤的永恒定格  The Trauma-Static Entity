@@ -1,0 +1,7 @@
+📂 內部檔案：[CA-003-Si] 創傷的永恆定格
+
+📊 協議看板：Si 模組物理標定 (KANBAN)
+參數 (Parameter)	邏輯標定 (Logic)	執行指引 	Briefing
+記憶快照Memory Snapshot	1:1 Alignment	任何偏差即觸發「清理变量冗余进程」。	Any deviation triggers the “variable redundancy cleanup process.”
+目標標定Target Identification	Impurity_Only	目標在其认知中僅為「雜質」。	In its mind, the target is nothing more than “clutter”
+熵值警戒Entropy Alert	Threshold: 0.05	超過誤差將引發邏輯自毀與硬體損毀程序。	Exceeding the error limit will trigger a self-destruct sequence and cause hardware damage.
